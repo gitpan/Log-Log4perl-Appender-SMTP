@@ -27,4 +27,4 @@ resources:
   bugtracker: http://github.com/oliwer/Log-Log4perl-Appender-SMTP/issues
   license: http://www.opensource.org/licenses/artistic-license-2.0
   repository: http://github.com/oliwer/Log-Log4perl-Appender-SMTP
-version: '0.02'
+version: '0.03'
