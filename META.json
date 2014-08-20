@@ -4,9 +4,9 @@
       "Olivier Duclos <odc@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060",
    "license" : [
-      "unknown"
+      "artistic_2"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -52,5 +52,5 @@
          "url" : "http://github.com/oliwer/Log-Log4perl-Appender-SMTP"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
